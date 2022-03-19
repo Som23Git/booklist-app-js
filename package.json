@@ -1,0 +1,19 @@
+{
+  "name": "booklist-app",
+  "version": "1.0.0",
+  "description": "Creating a Booklist Logger App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Som23Git/booklist-app-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Som23Git/booklist-app-js/issues"
+  },
+  "homepage": "https://github.com/Som23Git/booklist-app-js#readme"
+}
